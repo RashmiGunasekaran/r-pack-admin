@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  version: MyString
+  rversion: MyString
+  title: MyString
+  author: MyString
+  maintainer: MyString
+  license: MyString
+  priority: MyString
+  description: MyText
+
+two:
+  name: MyString
+  version: MyString
+  rversion: MyString
+  title: MyString
+  author: MyString
+  maintainer: MyString
+  license: MyString
+  priority: MyString
+  description: MyText

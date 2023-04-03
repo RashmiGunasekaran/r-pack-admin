@@ -80,6 +80,7 @@ GEM
     concurrent-ruby (1.2.0)
     crass (1.0.6)
     date (3.3.3)
+    deb_control (0.0.1)
     erubi (1.12.0)
     ffi (1.15.5-x86-mingw32)
     globalid (1.1.0)
@@ -217,6 +218,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
   capybara (>= 3.26)
+  deb_control (~> 0.0.1)
   jbuilder (~> 2.7)
   mysql2 (~> 0.5)
   puma (~> 5.0)
